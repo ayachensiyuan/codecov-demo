@@ -27,7 +27,7 @@ describe('Calc', () => {
 
     it('div', () => {
         chai.expect(calc.div(1, 2)).to.equal(0.5);
-        // chai.expect(calc.div(1, 0)).to.equal('error');
+        chai.expect(calc.div(1, 0)).to.equal('error');
 
     }
     );
