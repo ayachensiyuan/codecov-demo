@@ -14,10 +14,10 @@ describe('Calc', () => {
     }
     );
 
-    // it('sub', () => {
-    //     chai.expect(calc.sub(1, 2)).to.equal(-1);
-    // }
-    // );
+    it('sub', () => {
+        chai.expect(calc.sub(1, 2)).to.equal(-1);
+    }
+    );
 
     // it('mult', () => {
     //     chai.expect(calc.mult(1, 2)).to.equal(2);
