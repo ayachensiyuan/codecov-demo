@@ -19,10 +19,10 @@ describe('Calc', () => {
     }
     );
 
-    // it('mult', () => {
-    //     chai.expect(calc.mult(1, 2)).to.equal(2);
-    // }
-    // );
+    it('mult', () => {
+        chai.expect(calc.mult(1, 2)).to.equal(2);
+    }
+    );
 
 
     // it('div', () => {
