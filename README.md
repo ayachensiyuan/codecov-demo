@@ -1,5 +1,1 @@
-[![codecov](https://codecov.io/gh/ayachensiyuan/codecov-demo/branch/main/graph/badge.svg?token=ETY6L3BY8G)](https://codecov.io/gh/ayachensiyuan/codecov-demo)
-
-test codecov demo
-
-[https://codecov.io/gh/ayachensiyuan/codecov-demo/branch/main/graphs/sunburst.svg?token=ETY6L3BY8G](https://codecov.io/gh/ayachensiyuan/codecov-demo/branch/main/graphs/sunburst.svg?token=ETY6L3BY8G)
+[![Coverage Status](https://coveralls.io/repos/github/ayachensiyuan/codecov-demo/badge.svg?branch=dev)](https://coveralls.io/github/ayachensiyuan/codecov-demo?branch=dev)
